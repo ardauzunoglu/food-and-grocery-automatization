@@ -12,4 +12,4 @@ Yemeksepeti'nin internet sitesinden vereceğiniz siparişleri otomatikleştirmen
 
 Uygulamayı kullanabilmek için ChromeDriver'ı indirip kurmalısınız. ChromeDriver'ın konumu 'C:\Program Files (x86)\chromedriver.exe' olmalı.
 
-ChromeDriver'ı buradan indirebilirsinizÇ https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/
+ChromeDriver'ı buradan indirebilirsiniz: https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/
