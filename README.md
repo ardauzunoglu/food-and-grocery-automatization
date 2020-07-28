@@ -53,7 +53,7 @@ Yemeksepeti Sipariş Otomatizasyonu, Yemeksepeti'nin internet sitesinden verece�
 
 ### Geliştirici
 
-Arda Uzunoğlu - ![ardauzunoglu](https://github.com/ardauzunoglu)
+Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 
 ### İlave Notlar
 
