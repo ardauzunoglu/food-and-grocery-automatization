@@ -1,5 +1,32 @@
 # yemeksepeti-order-automatization
 
+### What's the purpose?
+
+Yemeksepeti Order Automatization is a desktop application provides automatization for you to order from online food delivery website, Yemeksepeti. This automatization app reinforces the purpose of Yemeksepeti, **saving time**.
+
+### Libraries Used
+
+'echo "Selenium";"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### ENG
 Desktop application provides automatization for you to order from online food delivery website, Yemeksepeti.
 
