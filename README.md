@@ -57,7 +57,7 @@ Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 
 ### İlave Notlar
 
-Uygulamanın hala eklentiler ve iyileştirmeler ile geliştirilebilir durumda. Uygulamayı daha iyi bir hale getirebilmek için bir gün bakabilirim.
+Uygulama, hala eklentiler ve iyileştirmeler ile geliştirilebilir durumda. Uygulamayı daha iyi bir hale getirebilmek için bir gün bakabilirim.
 
 
 
