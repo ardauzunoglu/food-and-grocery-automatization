@@ -15,15 +15,15 @@ Yemeksepeti Order Automatization is a desktop application provides **automatizat
 
 > You must install the libraries in cmd with the command "pip install xxxxx".
 
-> You must install ChromeDriver and the directory shall be "C:\Program Files (x86)\chromedriver.exe"
+> You must install ChromeDriver and the directory shall be "C:\Program Files (x86)\chromedriver.exe".
 
-> ![Download ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
+> [Download ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
 
 > ps: You can change the 'path' variable to where ChromeDriver is if the directory is not same as above.
 
 ### Developer
 
-Arda Uzunoğlu - ![ardauzunoglu](https://github.com/ardauzunoglu)
+Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 
 ### Further Notes
 
@@ -40,6 +40,16 @@ Yemeksepeti Sipariş Otomatizasyonu, Yemeksepeti'nin internet sitesinden verece�
 - PyQt5
 - Time
 - Sqlite3
+
+### Gereksinimler
+
+> Yukarıdaki kütüphaneleri konsolda "pip install xxxxx" komudu ile kurmalısınız.
+
+> ChromeDriver'ı kurmalısınız ve konumu "C:\Program Files (x86)\chromedriver.exe" olmalı.
+
+> [ChromeDriver'ı İndir](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
+
+> ps: Eğer ChromeDriver'ın konumu yukarıdaki ile aynı değilse 'path' değişkenini ChromeDriver'ın konumuna değiştirebilirsiniz.
 
 ### Geliştirici
 
