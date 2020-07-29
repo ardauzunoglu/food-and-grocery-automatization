@@ -32,7 +32,7 @@ Application still can be developed and improved with additions and improvements,
 
 ### Amaç 
 
-Yemeksepeti Sipariş Otomatizasyonu, Yemeksepeti'nin internet sitesinden vereceğiniz siparişleri otomatikleştirmenizi sağlayan bir masaüstü uygulaması. Uygulama, Yemeksepeti'nin amacı olan insanların zaman kazanmasını pekiştiriyor.
+Yemeksepeti Sipariş Otomatizasyonu, Yemeksepeti'nin internet sitesinden vereceğiniz siparişleri **otomatikleştirmenizi** sağlayan bir masaüstü uygulaması. Uygulama, Yemeksepeti'nin amacı olan **insanların zaman kazanmasını** pekiştiriyor.
 
 ### Kullanılan Kütüphaneler
 
