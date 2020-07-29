@@ -1,4 +1,4 @@
-# yemeksepeti-order-automatization
+# Yemeksepeti Order Automatization
 
 ### Purpose
 
