@@ -2,7 +2,7 @@
 
 ### Purpose
 
-Yemeksepeti Order Automatization is a desktop application provides **automatization** for you to order from online food delivery website, Yemeksepeti. This automatization app reinforces the purpose of Yemeksepeti, **saving time**.
+Yemeksepeti and Banabi Order Automatization is a desktop application provides **automatization** for you to order from both online food delivery website, Yemeksepeti and its grocery shopping delivery service, Banabi. This automatization app reinforces the purpose of Yemeksepeti, **saving time**.
 
 ### Libraries Used
 
@@ -32,7 +32,7 @@ Application still can be developed and improved with additions and improvements,
 
 ### Amaç 
 
-Yemeksepeti Sipariş Otomatizasyonu, Yemeksepeti'nin internet sitesinden vereceğiniz siparişleri **otomatikleştirmenizi** sağlayan bir masaüstü uygulaması. Uygulama, Yemeksepeti'nin amacı olan **insanların zaman kazanmasını** pekiştiriyor.
+Yemeksepeti ve Banabi Sipariş Otomatizasyonu, Yemeksepeti'nin internet sitesinden vereceğiniz siparişler ile Banabi'den vereceğiniz market siparişlerinizi **otomatikleştirmenizi** sağlayan bir masaüstü uygulaması. Uygulama, Yemeksepeti'nin amacı olan **insanların zaman kazanmasını** pekiştiriyor.
 
 ### Kullanılan Kütüphaneler
 
