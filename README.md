@@ -1,4 +1,4 @@
-# Yemeksepeti Order Automatization
+# Yemeksepeti and Banabi Order Automatization
 
 ### Purpose
 
