@@ -29,6 +29,7 @@ Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 
 Application still can be developed and improved with additions and improvements, I might take a look to make it better someday.
 
+Latest Update: 3 July 2020
 
 ### Amaç 
 
@@ -59,5 +60,6 @@ Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 
 Uygulama, hala eklentiler ve iyileştirmeler ile geliştirilebilir durumda. Uygulamayı daha iyi bir hale getirebilmek için bir gün bakabilirim.
 
+Son Güncelleme: 3 Temmuz 2020
 
 
